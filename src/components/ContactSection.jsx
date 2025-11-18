@@ -4,7 +4,7 @@ import {
   Mail,
   MapPin,
   Phone,
-  Send,,
+  Send,
   
 } from "lucide-react";
 import { cn } from "@/lib/utils";
